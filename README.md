@@ -21,8 +21,6 @@ Le projet a été implémenté en trois modules principaux :
    - Données de test insérées pour validation
 
 4. **Gestion du code source**
-   - Dépôt GitHub commun à l’équipe :  
-     [https://github.com/nom-du-projet](https://github.com/nom-du-projet)
    - Branches dédiées par personne
    - Commits réguliers 
 
